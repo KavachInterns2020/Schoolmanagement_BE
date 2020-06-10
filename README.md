@@ -1,5 +1,9 @@
 # KavachNetworks-Schoolmanagement_BE
 
+Backend-
+- Meghana M
+- Nikitha
+
 Procedure for making changes in the repositories - 
 - Create a new branch( with ur name as branch name)
 - Work on your branch, do any changes you want, add any files you want to add
